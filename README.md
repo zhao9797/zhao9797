@@ -1,4 +1,4 @@
-### 👋 Hello , 😄 I am Zhao9797 ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=zhao9797.homepage) 
+### 👋 Hello , 😄 I am Jac Zhao ✨. ![]( https://visitor-badge.glitch.me/badge?page_id=zhao9797.homepage) 
 
 
 - My interest is Representation Learning, Information Extraction, Natural Language Generation, and Multimodal Information Processing.

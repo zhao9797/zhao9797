@@ -3,7 +3,7 @@
 
 - My interest is Representation Learning, Information Extraction, Natural Language Generation, and Multimodal Information Processing.
 
-- 🔭 I’m currently doing research at the [THUIAR](https://thuiar.github.io/).
+- 🔭 I’m currently doing research at the XiaoMi.
 - 🌱 I’m currently learning IE, KG and NLG.
 - 📫 How to reach me: [zhaok7878@gmail.com](zhaok7878@gmail.com)
 

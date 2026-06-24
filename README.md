@@ -11,6 +11,10 @@
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=zhao9797&theme=nightowl&show_icons=true" />
 </a>
 
+<a href="https://github.com/Darwin-Agent/HarnessX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darwin-Agent&repo=HarnessX&theme=tokyonight&show_icons=true" />
+</a>
+
 <a href="https://github.com/zhao9797/RIFRE">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhao9797&repo=RIFRE&theme=tokyonight&show_icons=true" />
 </a>

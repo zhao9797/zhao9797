@@ -8,7 +8,7 @@
 ## &#x1f4c8; GitHub Stats & 🗂️ Highlight Projects
 
 <a href="https://github.com/zhao9797">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=zhao9797&theme=nightowl&show_icons=true" />
+    <img align="left" width="80%" src="https://github-readme-stats.vercel.app/api?username=zhao9797&theme=nightowl&show_icons=true" />
 </a>
 
 <a href="https://github.com/Darwin-Agent/HarnessX">
